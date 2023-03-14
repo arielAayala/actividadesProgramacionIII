@@ -10,9 +10,7 @@
 <body class="ms-5 me-5">
     <h1 class= "text-center">Desarrollo de actividades</h1>
     <?php
-        include("actividad7.php");
-        include("actividad9.php");
-        include("actividad10.php");
+        include("actividad11.php");
     ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
 </body>
